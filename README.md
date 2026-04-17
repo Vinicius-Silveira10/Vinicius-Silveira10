@@ -5,35 +5,33 @@
 </p>
 
 <p align="center">
-  Desenvolvedor movido por lógica e arquitetura, com experiência prática na construção de sistemas ponta-a-ponta, 
-  unificando infraestruturas Web3, motores de inteligência e interfaces interativas.
+  Estudante apaixonado por tecnologia, focado no desenvolvimento de sistemas sólidos e na criação de projetos práticos que conectam lógica, dados e interface.
 </p>
 
 ---
 
-### 🏗️ Arquitetura de Conhecimento
+### 🏗️ Minhas Habilidades
 
-Minha stack é projetada de forma modular, garantindo eficiência em três pilares fundamentais:
-
-*   **⚡ Back-End & Governança (C# / Java 21):** Desenvolvimento de APIs robustas para processamento financeiro, lógica de negócios complexas e persistência escalável.
-*   **🧠 Inteligência e Automação (Python / PL-pgSQL):** Motores de dados para simulações físicas, visão computacional em tempo real e modelos preditivos de Machine Learning.
-*   **🌐 Interação e Descentralização (React / Solidity / Unity):** Interfaces táticas de alta performance, contratos inteligentes imutáveis e experiências imersivas em 3D.
-
----
-
-### 🛠️ Projetos de Alta Performance
-
-*   **[Logística Tycoon](https://github.com/Vinicius-Silveira10/simulador-de-transporte-logistico):** Ecossistema Full-Stack integrado (API .NET, React e Unity) com sincronização em tempo real.
-*   **[GreenMarket Protocol](https://github.com/Vinicius-Silveira10/Smart_Contract_Projeto_Fidelidade):** Infraestrutura Web3 completa com Staking, Tokens de Recompensa e Governança em Blockchain.
-*   **[Shop Recommender](https://github.com/Vinicius-Silveira10/smart-shop-recommender):** E-commerce inteligente com backend Java 21 e motor de recomendação preditivo em Python.
-*   **[ROV Autônomo](https://github.com/Vinicius-Silveira10/Rov-Autonomo):** Controle e simulação de veículos submarinos utilizando processamento avançado em Python.
-*   **[Visão Computacional](https://github.com/Vinicius-Silveira10/Visao-computacional-em-tempo-real):** Algoritmos de detecção e reconhecimento em tempo real para automação de processos.
-*   **[Arquitetura Contribuinte](https://github.com/Vinicius-Silveira10/projeto-contribuinte):** Sistema de gestão fiscal encapsulado com lógica orientada a objetos em Java.
-*   **[Core Database](https://github.com/Vinicius-Silveira10/Transportadora):** Regras de negócio de alta integridade processadas diretamente via procedures PL/pgSQL.
+*   **⚡ Back-end:** C# (.NET Core), Java (Spring Boot).
+*   **🧠 Inteligência & Dados:** Python (FastAPI, Visão Computacional), SQL (PostgreSQL, PL/pgSQL).
+*   **🌐 Interface & Web3:** React, Unity 3D, Solidity (Blockchain).
+*   **🛠️ Ferramentas:** Docker, Git, REST APIs.
 
 ---
 
-### 🚀 Conecte-se ao meu Ecossistema
+### 📂 Meus Projetos Principais
+
+- **[Logística Tycoon](https://github.com/Vinicius-Silveira10/simulador-de-transporte-logistico):** Simulador integrado com API .NET, React e Unity.
+- **[GreenMarket Protocol](https://github.com/Vinicius-Silveira10/Smart_Contract_Projeto_Fidelidade):** Infraestrutura Web3 com Staking e Tokens em Solidity.
+- **[Shop Recommender](https://github.com/Vinicius-Silveira10/smart-shop-recommender):** E-commerce com backend Java e motor de recomendação em Python.
+- **[ROV Autônomo](https://github.com/Vinicius-Silveira10/Rov-Autonomo):** Controle de veículos submarinos simulados via Python.
+- **[Visão Computacional](https://github.com/Vinicius-Silveira10/Visao-computacional-em-tempo-real):** Reconhecimento de imagens em tempo real.
+- **[Arquitetura Contribuinte](https://github.com/Vinicius-Silveira10/projeto-contribuinte):** Gestão fiscal e lógica de objetos em Java.
+- **[Core Database](https://github.com/Vinicius-Silveira10/Transportadora):** Regras de negócio complexas processadas em PL/pgSQL.
+
+---
+
+### 🚀 Conecte-se Comigo
 
 <p align="center">
   <a href="mailto:vinicius.silveira.10@hotmail.com">
@@ -47,15 +45,20 @@ Minha stack é projetada de forma modular, garantindo eficiência em três pilar
   </a>
 </p>
 
+- 💼 **LinkedIn:** [Vinicius Silveira](https://www.linkedin.com/in/vinicius-silveira-7ab9b3243)
+- 📫 **E-mail:** [vinicius.silveira.10@hotmail.com](mailto:vinicius.silveira.10@hotmail.com)
+
+---
+
 ### 📊 Performance e Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Silveira10&show_icons=true&theme=radium" alt="Vinicius Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Silveira10&layout=compact&theme=radium" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Silveira10&show_icons=true&theme=radium" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Silveira10&layout=compact&theme=radium" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Vinicius-Silveira10/Vinicius-Silveira10/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Vinicius-Silveira10/Vinicius-Silveira10/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---

@@ -50,12 +50,6 @@
 
 ---
 
-### 📊 Performance e Atividade
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Silveira10&show_icons=true&theme=radium" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Silveira10&layout=compact&theme=radium" height="170" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vinicius-Silveira10/Vinicius-Silveira10/output/github-contribution-grid-snake.svg" alt="Snake Animation" />

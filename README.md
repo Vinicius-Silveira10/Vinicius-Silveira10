@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Estudante apaixonado por tecnologia, focado no desenvolvimento de sistemas sólidos e na criação de projetos práticos que conectam lógica, dados e interface.
+  Estudante focado no desenvolvimento de sistemas sólidos e na criação de projetos práticos que conectam lógica, dados e interface.
 </p>
 
 ---
